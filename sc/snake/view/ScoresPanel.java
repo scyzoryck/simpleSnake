@@ -9,7 +9,7 @@ import java.awt.event.ActionListener;
 import java.util.List;
 
 /**
- * Main menu panel
+ * SimpleSnake menu panel
  */
 public class ScoresPanel extends JPanel {
 

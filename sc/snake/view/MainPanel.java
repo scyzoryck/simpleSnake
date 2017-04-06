@@ -5,7 +5,7 @@ import java.awt.*;
 import java.awt.event.ActionListener;
 
 /**
- * Main menu panel
+ * SimpleSnake menu panel
  */
 public class MainPanel extends JPanel {
 
